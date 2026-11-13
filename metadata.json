@@ -1,0 +1,6 @@
+{
+  "name": "AsramaLink - Sistem Perizinan Keluar Masuk Asrama",
+  "description": "Aplikasi digital perizinan keluar dan masuk asrama siswa dengan verifikasi QR code, monitoring realtime, dan pencatatan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
